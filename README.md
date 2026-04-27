@@ -29,15 +29,15 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi-10340&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi10340&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ravi-10340&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ravi10340&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-10340&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi10340&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 
 ## 🤝 Let's Connect  
 <p align="center">
-  <a href="https://github.com/ravi-10340"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://github.com/ravi10340"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
   <a href="https://www.linkedin.com/in/ravi-ab8b1a28a/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:ravinarwal3327@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40"/></a>
 </p>
